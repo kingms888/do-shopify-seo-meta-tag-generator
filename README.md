@@ -1,0 +1,1 @@
+# do-shopify-seo-meta-tag-generator
